@@ -7,7 +7,7 @@ Each key represent the 'O' place on Board
 q | w | e 
 a | s | d
 z | x | c
-after '->' enter the position
+after '->' enter the position hv
 """)
 
 keys=["q","w","e","a","s","d","z","x","c"]
